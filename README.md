@@ -1,8 +1,8 @@
-## Uniswap Info V3
+## OpenEXA Anaytics (V3)
 
-An open sourced interface for Uniswap V3 analytics. 
+Edit
 
-Info URL: https://info.uniswap.org/#/
+Just changed the logo and changed the color scheme to fit OpenEXAs
 
 ## Development
 
