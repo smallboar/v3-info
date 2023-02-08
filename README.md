@@ -1,7 +1,5 @@
 ## OpenEXA Anaytics (V3)
 
-Edit
-
 Just changed the logo and changed the color scheme to fit OpenEXAs
 
 ## Development
